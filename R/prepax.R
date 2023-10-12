@@ -9,8 +9,7 @@
 #' @return a tibble
 #' @export
 #'
-#' @examples
-#'
+#' @examples data("likph")'; prepax(tt,1:6)
 #'
 prepax <- function(dfx,col) {
   tabz <-   dfx |>
